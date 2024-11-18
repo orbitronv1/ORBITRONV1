@@ -1,4 +1,4 @@
-## Hi there 👋
+## https://discord.gg/U8FhFdvGcf
 
 <!--
 **orbitronv1/ORBITRONV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
