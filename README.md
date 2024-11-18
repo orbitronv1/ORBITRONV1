@@ -1,6 +1,7 @@
 ## https://discord.gg/U8FhFdvGcf
 - was made by chat gpt lmao
 - @zipware on discord
+- regular updates?
 <!--
 **orbitronv1/ORBITRONV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
